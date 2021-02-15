@@ -1,7 +1,7 @@
 ---
 title: "대타몬"
 layout: categories
-permalink: /Detamon/
+permalink: _posts/Detamon/
 author_profile: true
 ---
 
