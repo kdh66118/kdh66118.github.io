@@ -5,5 +5,4 @@ permalink: /categories/
 author_profile: true
 ---
 
- - title: "대타몬"
-    url: /Detamon/
+대타몬
