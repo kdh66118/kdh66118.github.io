@@ -99,6 +99,7 @@ author:
   bio              : "Beginner Developer"
   location         : "korea"
   email            : ""
+  github           : "kdh66118"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
