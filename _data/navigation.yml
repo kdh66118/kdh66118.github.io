@@ -8,3 +8,30 @@ main:
     url: /about/
   - title: "연도별 포스트"
     url: /year-archive/
+
+didnav:
+  - title: Contributors Guides
+    children:
+      - title: "Minimal-Mistakes - Configuration"
+        url: /website-configuration/
+      - title: Discord Archive Walktrhu
+        url: /discord-archive-howto/
+  - title: Archives
+    url: /archives/
+    children:
+      - title: Resources
+        url: /archives/resources/
+      - title: Multi-Media
+        url: /archives/multi-media/
+      - title: Blockchain
+        url: /archives/blockchain/
+      - title: Organizations
+        url: /archives/organizations/
+      - title: Public Sector
+        url: /archives/public-sector/
+      - title: Private Sector
+        url: /archives/private-sector/
+      - title: Tech
+        url: /archives/tech/
+      - title: Application
+        url: /archives/application
