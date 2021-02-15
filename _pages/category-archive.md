@@ -1,8 +1,8 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /categories/
+permalink: /Detamon/
 author_profile: true
 ---
 
-대타몬
+
