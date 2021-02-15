@@ -7,4 +7,4 @@ main:
   - title: "About"
     url: /about/
   - title: "연도별 포스트"
-    url: /posts/
+    url: /year-archive/
